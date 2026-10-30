@@ -35,8 +35,9 @@ vi)Sequence Diagram
 
 # Class Diagram
 
-![ClassDiagram1](https://github.com/user-attachments/assets/20d94e08-700c-430d-879a-1ede57dd4ae4)
+<img width="591" height="548" alt="Screenshot 2026-10-30 203743" src="https://github.com/user-attachments/assets/3b853aab-17ed-40e9-a4b8-2b5b1021d0ba" />
+
 
 # Activity Diagram
 
-![ActivityDiagram1](https://github.com/user-attachments/assets/7f56b187-5dee-4cb7-9b1c-038c794544c6)
+<img width="657" height="723" alt="Screenshot 2026-10-30 203810" src="https://github.com/user-attachments/assets/5cb1916d-63b6-4c30-9369-078a17cbabe9" />
